@@ -1,5 +1,5 @@
 githubOrg = "Gil-org"
-credId = "github"
+credId = "github-creds"
 apiUri = "https://api.github.com"
 orgPipelineRepo = "https://github.com/Gil-org/pipeline-config.git"
 libraryRepo = "https://github.com/Gil-org/SDP-Library.git"
